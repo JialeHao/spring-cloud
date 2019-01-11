@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1e312e2-e247-45fd-b366-1ea94dfeaddc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/01-Eureka/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/01-Eureka/eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/01-Eureka/eureka-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/01-Eureka/eureka-producer-nginx/target/" />
+    <ignored path="$PROJECT_DIR$/02-config/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/02-config/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/03-bus/bus-server/target/" />
+    <ignored path="$PROJECT_DIR$/03-bus/bus-client/target/" />
+    <ignored path="$PROJECT_DIR$/04-zuul/zuul-demo/target/" />
+    <ignored path="$PROJECT_DIR$/01-Eureka/eureka-producer/target/" />
+    <ignored path="$PROJECT_DIR$/02-hystrix/eureka-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/02-hystrix/eureka-producer-nginx/target/" />
+    <ignored path="$PROJECT_DIR$/02-hystrix/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/02-hystrix/hystrix-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/03-config/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/03-config/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/04-bus/bus-client/target/" />
+    <ignored path="$PROJECT_DIR$/04-bus/bus-server/target/" />
+    <ignored path="$PROJECT_DIR$/04-bus/bus-client-two/target/" />
+    <ignored path="$PROJECT_DIR$/04-bus/bus-client-three/target/" />
+    <ignored path="$PROJECT_DIR$/04-bus/bus-client-nginx/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HelloRemote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/service/HelloRemote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/controller/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-config/config-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-config/config-client/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-config/config-client/src/main/resources/bootstrap.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haojiale-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-config/config-repo/haojiale-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusClientApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-bus/bus-client/src/main/java/com/haojiale/busclientnginx/BusClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-bus/bus-client/src/main/java/com/haojiale/busclientnginx/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloRemoteHystrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/service/HelloRemoteHystrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clientpr</find>
+      <find>name</find>
+      <find>client</find>
+      <find>eureka-client</find>
+      <find>eureka-consumer</find>
+      <find>eureka-con</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/03-config/config-repo" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02-config/config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/02-config/config-server/src/main/java/com/haojiale/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/02-config/config-client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/02-config/config-client/src/main/java/com/haojiale/configclient/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/03-bus/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/03-bus/config-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/03-bus/bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/03-bus/bus-client/pom.xml" />
+        <option value="$PROJECT_DIR$/03-bus/bus-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/03-bus/bus-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/03-bus/bus-server/src/main/java/com/haojiale/busserver/BusServerApplication.java" />
+        <option value="$PROJECT_DIR$/03-bus/bus-client/src/main/java/com/haojiale/busclient/BusClientApplication.java" />
+        <option value="$PROJECT_DIR$/03-bus/bus-client/src/main/java/com/haojiale/busclient/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/02-config/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/02-config/config-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/04-zuul/zuul-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-zuul/zuul-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/04-zuul/zuul-demo/src/main/java/com/haojiale/zuuldemo/ZuulDemoApplication.java" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-producer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-producer/src/main/java/com/haojiale/eurekaproducer/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-producer/src/main/java/com/haojiale/eurekaproducer/EurekaProducerApplication.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/eureka-consumer/eureka-consumer.iml" />
+        <option value="$PROJECT_DIR$/01-eureka/eureka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-eureka/eureka-producer/src/main/java/com/haojiale/eurekaproducer/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/01-eureka/eureka-producer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/01-eureka/eureka-producer/src/main/java/com/haojiale/eurekaproducer/EurekaProducerApplication.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/HystrixConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/service/HelloRemoteHystrix.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/HystrixDashboardConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/04-bus/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-two/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-two/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-three/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-three/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-two/src/main/java/com/haojiale/busclienttwo/BusClientTwoApplication.java" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-two/src/main/java/com/haojiale/busclienttwo/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/04-bus/bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/service/HelloRemote.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/service/HelloRemoteHystrix.java" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/03-config/config-repo/haojiale-dev.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haojiale.eurekaproducer.controller" />
+      <recent name="com.haojiale.busclient.controller" />
+      <recent name="com.haojiale.eurekaproducernginx.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODE\spring-cloud\04-bus" />
+      <recent name="D:\CODE\spring-cloud\02-hystrix\hystrix-dashboard-consumer\src\main\java\com\haojiale\hystrixdashboardconsumer" />
+      <recent name="D:\CODE\spring-cloud\02-hystrix" />
+      <recent name="D:\CODE\spring-cloud\01-Eureka\eureka-producer\src\main\java\com\haojiale\eurekaproducer" />
+      <recent name="D:\CODE\spring-cloud\01-Eureka\eureka-producer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BusClientApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haojiale.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.haojiale.eurekaserver.EurekaServerApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="eureka-server" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bus-server" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="BusClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.busclientnginx.BusClientApplication" />
+      <module name="bus-client" />
+      <envs />
+    </configuration>
+    <configuration name="BusClientNginxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haojiale.busclientnginx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.busclientnginx.BusClientNginxApplication" />
+      <module name="bus-client-nginx" />
+      <envs />
+    </configuration>
+    <configuration name="BusServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.busserver.BusServerApplication" />
+      <module name="bus-server" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.busclientnginx.ConfigClientApplication" />
+      <module name="config-client" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.busserver.ConfigServerApplication" />
+      <module name="config-server" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.eurekaconsumer.EurekaConsumerApplication" />
+      <module name="eureka-consumer" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.eurekaproducer.EurekaProducerApplication" />
+      <module name="eureka-producer" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaProducerNginxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.eurekaproducernginx.EurekaProducerNginxApplication" />
+      <module name="eureka-producer-nginx" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.eurekaserver.EurekaServerApplication" />
+      <module name="eureka-server" />
+      <envs />
+    </configuration>
+    <configuration name="HystrixConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.hystrixconsumer.HystrixConsumerApplication" />
+      <module name="hystrix-consumer" />
+      <envs />
+    </configuration>
+    <configuration name="HystrixDashboardConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haojiale.hystrixdashboardconsumer.HystrixDashboardConsumerApplication" />
+      <module name="hystrix-dashboard-consumer" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="12">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaProducerApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.EurekaConsumerApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaProducerNginxApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.HystrixConsumerApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.HystrixDashboardConsumerApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ConfigClientApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.BusClientApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.BusServerApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Application.EurekaServerApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.BusClientNginxApplication" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.BusClientNginxApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e312e2-e247-45fd-b366-1ea94dfeaddc" name="Default" comment="" />
+      <created>1546861807111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546861807111</updated>
+      <workItem from="1546861811854" duration="7795000" />
+      <workItem from="1546924684093" duration="1300000" />
+      <workItem from="1546927682986" duration="3025000" />
+      <workItem from="1546941908609" duration="5496000" />
+      <workItem from="1547019761101" duration="24558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42174000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50425893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3237519" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50425893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3237519" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/02-config/config-repo" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/03-bus/bus-server/src/main/java/com/haojiale/configserver/ConfigServerApplication.java</url>
+          <line>7</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-Eureka/eureka-client/mvnw.cmd" />
+    <entry file="file://$PROJECT_DIR$/01-Eureka/eureka-client/src/test/java/com/haojiale/eurekaproducer/EurekaProducerApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-consumer/src/main/java/com/haojiale/eurekaconsumer/service/HelloRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Eureka/eureka-client/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/01-Eureka/eureka-client/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/04-zuul/zuul-demo/src/main/java/com/haojiale/zuuldemo/ZuulDemoApplication.java" />
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/eureka-consumer (1).iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/hystrix-consumer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="151" column="9" lean-forward="false" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer-nginx/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer/src/main/java/com/haojiale/eurekaproducer/EurekaProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer-nginx/src/main/java/com/haojiale/eurekaproducernginx/EurekaProducerNginxApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-server/src/main/java/com/haojiale/eurekaserver/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/HystrixConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/service/HelloRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/service/HelloRemoteHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/test/java/com/haojiale/eurekaconsumer/EurekaConsumerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/java/com/haojiale/hystrixdashboardconsumer/HystrixDashboardConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-config/config-client/src/main/java/com/haojiale/busclientnginx/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-config/config-client/src/main/java/com/haojiale/busclientnginx/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-server/src/main/java/com/haojiale/busserver/BusServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-two/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-two/src/main/java/com/haojiale/busclienttwo/BusClientTwoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-two/src/main/java/com/haojiale/busclienttwo/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-two/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-nginx/src/main/java/com/haojiale/busclientnginx/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-nginx/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-nginx/bus-client-nginx.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-nginx/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client-nginx/src/main/java/com/haojiale/busclientnginx/BusClientNginxApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer/src/main/java/com/haojiale/eurekaproducer/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-eureka/eureka-producer-nginx/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/service/HelloRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/service/HelloRemoteHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/src/main/java/com/haojiale/hystrixconsumer/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-config/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="66" lean-forward="false" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-config/config-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-config/config-client/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-config/config-repo/haojiale-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client/src/main/java/com/haojiale/busclientnginx/BusClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-bus/bus-client/src/main/java/com/haojiale/busclientnginx/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eureka-producer-nginx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bus-client" />
+        <module name="bus-client-nginx" />
+        <module name="bus-server" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-client" />
+        <module name="eureka-consumer" />
+        <module name="eureka-consumer (1)" />
+        <module name="eureka-producer" />
+        <module name="eureka-producer-nginx" />
+        <module name="eureka-server" />
+        <module name="hystrix-consumer" />
+        <module name="hystrix-dashboard-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bus-client" target="1.8" />
+      <module name="bus-client-nginx" target="1.8" />
+      <module name="bus-client-three" target="1.8" />
+      <module name="bus-client-two" target="1.8" />
+      <module name="bus-server" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-consumer (1)" target="1.8" />
+      <module name="eureka-producer" target="1.8" />
+      <module name="eureka-producer-nginx" target="1.8" />
+      <module name="eureka-producer-nginx (1)" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="hystrix-consumer" target="1.8" />
+      <module name="hystrix-dashboard-consumer" target="1.8" />
+      <module name="zuul-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

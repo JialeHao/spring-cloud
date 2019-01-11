@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-producer-nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/02-config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/02-config/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/03-bus/bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/03-bus/bus-client/pom.xml" />
+        <option value="$PROJECT_DIR$/04-zuul/zuul-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Eureka/eureka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-eureka/eureka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/03-config/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/03-config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-three/pom.xml" />
+        <option value="$PROJECT_DIR$/04-bus/bus-client-nginx/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

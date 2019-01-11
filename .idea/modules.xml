@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04-bus/bus-client/bus-client.iml" filepath="$PROJECT_DIR$/04-bus/bus-client/bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-bus/bus-client-nginx/bus-client-nginx.iml" filepath="$PROJECT_DIR$/04-bus/bus-client-nginx/bus-client-nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-bus/bus-server/bus-server.iml" filepath="$PROJECT_DIR$/04-bus/bus-server/bus-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-config/config-client/config-client.iml" filepath="$PROJECT_DIR$/03-config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-config/config-server/config-server.iml" filepath="$PROJECT_DIR$/03-config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/01-eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/01-eureka/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/eureka-producer/eureka-producer.iml" filepath="$PROJECT_DIR$/01-eureka/eureka-producer/eureka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/eureka-producer-nginx/eureka-producer-nginx.iml" filepath="$PROJECT_DIR$/01-eureka/eureka-producer-nginx/eureka-producer-nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/01-eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer/hystrix-consumer.iml" filepath="$PROJECT_DIR$/02-hystrix/hystrix-consumer/hystrix-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/hystrix-dashboard-consumer.iml" filepath="$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer/hystrix-dashboard-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/01-eureka/eureka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/eureka-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/eureka-producer-nginx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-eureka/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-hystrix/eureka-producer-nginx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-hystrix/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-hystrix/hystrix-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-hystrix/hystrix-dashboard-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-config/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-config/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-bus/bus-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-bus/bus-client-nginx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-bus/bus-client-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-bus/bus-server" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
